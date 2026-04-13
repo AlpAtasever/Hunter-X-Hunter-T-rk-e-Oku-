@@ -4,5 +4,70 @@
   "artist": "Yoshihiro TOGASHI",
   "author": "Yoshihiro TOGASHI",
   "cover": "https://imgur.com/a/gXBUqk7",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Bölüm 1: Yola Koyulma Günü",
+      "volume": "1",
+      "last_updated": "1776100594",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/hrDnOCM"
+      }
+    },
+    "2": {
+      "title": "Bölüm 2: Fırtınada Bir Karşılaşma",
+      "volume": "1",
+      "last_updated": "1776100670",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/cQryWcR"
+      }
+    },
+    "3": {
+      "title": "Bölüm 3: Nihai Seçim",
+      "volume": "1",
+      "last_updated": "1776100704",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/oBGmBG0"
+      }
+    },
+    "4": {
+      "title": "Bölüm 4: Kiriko Sihirli Kurnaz Tilkiler",
+      "volume": "1",
+      "last_updated": "1776100750",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/5W2Rere"
+      }
+    },
+    "5": {
+      "title": "Bölüm 5: İlk Aşama Başlıyor, part 1",
+      "volume": "1",
+      "last_updated": "1776100777",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/gHPMe2E"
+      }
+    },
+    "6": {
+      "title": "Bölüm 6: İlk Aşama Başlıyor, part 2",
+      "volume": "1",
+      "last_updated": "1776100814",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/xCVmtV6"
+      }
+    },
+    "7": {
+      "title": "Bölüm 7: Herkesin Kendi Sebepleri",
+      "volume": "1",
+      "last_updated": "1776100831",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/wR09rnp"
+      }
+    },
+    "8": {
+      "title": "Bölüm 8: Öteki Düşman",
+      "volume": "1",
+      "last_updated": "1776100852",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/cdFYImJ"
+      }
+    }
+  }
 }
