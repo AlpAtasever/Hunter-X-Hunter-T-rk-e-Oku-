@@ -156,6 +156,22 @@
       "groups": {
         "Alp ATASEVER": "/proxy/api/imgur/chapter/1lNLn0h"
       }
+    },
+    "20": {
+      "title": "Bölüm 20: Bahis Zamanı",
+      "volume": "3",
+      "last_updated": "1777647505",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/t0zWQ7Q"
+      }
+    },
+    "21": {
+      "title": "Bölüm 21: Kararlılık",
+      "volume": "3",
+      "last_updated": "1777647526",
+      "groups": {
+        "Alp ATASEVER": "/proxy/api/imgur/chapter/FUJG0EL"
+      }
     }
   }
 }
