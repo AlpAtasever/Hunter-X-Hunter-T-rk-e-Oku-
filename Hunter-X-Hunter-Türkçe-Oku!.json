@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1776100704",
       "groups": {
-        "Alp ATASEVER": "/proxy/api/imgur/chapter/oBGmBG0"
+        "Alp ATASEVER": "/proxy/api/imgchest/chapter/9ryddrdvayk"
       }
     },
     "4": {
@@ -322,7 +322,9 @@
       "volume": "5",
       "last_updated": "1779751068",
       "groups": {
-        "Alp ATASEVER": "/proxy/api/imgur/chapter/fLz0Lw7"
+        "Alp ATASEVER": [
+          "/proxy/api/imgur/chapter/fLz0Lw7"
+        ]
       }
     },
     "41": {
